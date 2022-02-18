@@ -1,10 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "dreamhouse-app",
+      "path": "force-app",
       "default": true
     }
   ],
+  "name": "dxatscale-source",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
