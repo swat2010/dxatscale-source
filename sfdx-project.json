@@ -1,7 +1,7 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "dreamhouse-app",
       "default": true
     }
   ],
